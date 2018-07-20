@@ -1,4 +1,4 @@
-# Loan_Prediction_Machine_Learning
+# Financial Loan Default Prediction
 
 A model that predicts whether or not a loan will default based on historical user data.
 
